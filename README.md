@@ -14,7 +14,7 @@ In this project, I used data provided by Motivate, a bike share system provider 
 
 With this project, I am now more capable and confident in leveraging the power of Python to tell stories behind data. To be specific, I have improved my skills in using popular Python packages (NumPy, Pandas, Seaborn, Matlibplot) significantly when addressing this real-life business analysis project.
 
-This project is to fulfill the Udacity Nanodegree Program "Programming for Datascience with Python".
+This project is to fulfill the Udacity Nanodegree Program "Programming for Datascience with Python". :)
 
 ### Files used
 bikeshare.py
