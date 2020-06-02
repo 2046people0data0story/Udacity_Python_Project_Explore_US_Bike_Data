@@ -22,3 +22,5 @@ washington.csv
 
 ### Credits
 Many thanks for Udacity to provide this wonderful project-based approach to learning Data Science. I highly recommend this nanodegree program :)
+
+I'd like to invite all of you to connect with me on my LinkedIn Page: https://www.linkedin.com/in/muyi-george-nie/
