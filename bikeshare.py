@@ -21,7 +21,7 @@ def print_processing_time(start_time):
     print_line('-')
 
 
-def get_filter_city():
+def get_filter_city(): # filter function for city info
     """
     Asks user to specify a city.
     """
