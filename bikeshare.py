@@ -35,7 +35,7 @@ def get_filter_city(): # filter function for city info
     return city
 
 
-def get_filter_month():
+def get_filter_month(): # filter function for month info
     """
     Asks user to specify a month to filter on, or choose all.
     Returns:
@@ -61,7 +61,7 @@ def get_filter_month():
     return month
 
 
-def get_filter_day():
+def get_filter_day(): # filter function for day info
     """
     Asks user to specify a day to filter on, or choose all.
     Returns:
