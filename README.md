@@ -12,6 +12,8 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 In this project, I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
+With this project, I am now more capable and confident in leveraging the power of Python to tell stories behind data. To be specific, I have improved my skills in using popular Python packages (NumPy, Pandas, Seaborn, Matlibplot) significantly when addressing this real-life business analysis project.
+
 This project is to fulfill the Udacity Nanodegree Program "Programming for Datascience with Python".
 
 ### Files used
